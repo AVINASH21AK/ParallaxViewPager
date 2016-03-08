@@ -1,4 +1,4 @@
-# ParallaxOnViewPager
+# Parallax Effect On ViewPager
 A simple ViewPager with parallax effect
 
 ###Min Android API:
