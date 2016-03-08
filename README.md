@@ -3,7 +3,7 @@ A simple ViewPager with parallax effect
 
 
 
-#Simple Usage
+##Simple Usage
 
         ViewPager myViewPager;
         
