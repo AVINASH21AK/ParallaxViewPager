@@ -5,15 +5,8 @@ A simple ViewPager with parallax effect
 
 #Simple Usage
 
-
-
-    private ViewPager myViewPager;
-    
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-
+        ViewPager myViewPager;
+        
         //declare XML views...
         myViewPager = (ViewPager) findViewById(R.id.myViewPager);
 
