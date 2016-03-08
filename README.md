@@ -1,11 +1,12 @@
 # ParallaxOnViewPager
 A simple ViewPager with parallax effect
+*Download the project to learn how to usage*
 
 ##Demo
 ![](http://imgur.com/7OArgCy.gif)
 
 
-##Simple Usage
+##Fast Usage
 
         ViewPager myViewPager;
         
