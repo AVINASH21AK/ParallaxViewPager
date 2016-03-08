@@ -1,6 +1,8 @@
 # ParallaxOnViewPager
 A simple ViewPager with parallax effect
-*Download the project to learn how to usage*
+
+
+**NOTE: Download the project to learn how to usage**
 
 ##Demo
 ![](http://imgur.com/7OArgCy.gif)
@@ -30,3 +32,9 @@ A simple ViewPager with parallax effect
         .addViewToParallax(new ParallaxPageTransformer.ParallaxTransformInformation(R.id.llGreenBlock, 1.5f, 1.0f));
 
         myViewPager.setPageTransformer(true, pageTransformer); //set page transformer
+        
+        
+###Thanks to:
+ 
+ - Marcos Trujillo (original creator)
+ - Guihgo (update and recreate lib)
