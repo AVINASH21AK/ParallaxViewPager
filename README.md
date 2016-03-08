@@ -1,6 +1,8 @@
 # ParallaxOnViewPager
 A simple ViewPager with parallax effect
 
+##Demo
+![](http://imgur.com/7OArgCy.gif)
 
 
 ##Simple Usage
