@@ -2,7 +2,7 @@
 A simple ViewPager with parallax effect
 
 ###Min Android API:
-> 9 (Need to import ![NineOldAndroids](http://nineoldandroids.com/))
+> 9 (Need to import [NineOldAndroids](http://nineoldandroids.com/))
 
 > 21 (withless NineOldAndroids)
 
