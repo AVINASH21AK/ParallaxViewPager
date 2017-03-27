@@ -1,7 +1,7 @@
 # Parallax Effect On ViewPager
 A simple ViewPager with parallax effect
 
-###Min Android API:
+### Min Android API:
 > 9 (Need to import [NineOldAndroids](http://nineoldandroids.com/))
 
 > 21 (withless NineOldAndroids)
@@ -14,7 +14,7 @@ A simple ViewPager with parallax effect
 ![](http://imgur.com/7OArgCy.gif)
 
 
-##Fast Usage
+## Fast Usage
 
         ViewPager myViewPager;
         
@@ -40,7 +40,7 @@ A simple ViewPager with parallax effect
         myViewPager.setPageTransformer(true, pageTransformer); //set page transformer
         
         
-###Thanks to:
+### Thanks to:
  
  - Marcos Trujillo (original creator)
  - Guihgo (update and recreate lib)
